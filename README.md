@@ -29,6 +29,20 @@ This project performs end-to-end sales analysis on a simulated Indian e-commerce
 | Q5 | What is the average order value? | Overall AOV **₹24,477** — VIP customers spend **2.3×** more |
 
 ---
+Skills Demonstrated
+
+• Exploratory Data Analysis (EDA)
+• Business KPI Analysis
+• Data Visualization
+• SQL Joins and Window Functions
+• Customer Retention Analysis
+• Data Modeling
+
+Business Impact
+
+• Electronics category should receive higher marketing investment.
+• VIP customers generate 2.3× higher revenue — target with loyalty programs.
+• Weekend promotions can increase order volume.
 
 ## 🗂 Project Structure
 
