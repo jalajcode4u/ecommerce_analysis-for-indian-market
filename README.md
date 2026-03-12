@@ -36,14 +36,14 @@ This project performs end-to-end sales analysis on a simulated Indian e-commerce
 ecommerce_analysis/
 │
 ├── data/
-│   ├── generate_data.py          # Reproducible dataset generator (seed=42)
+│   ├── generate_data.py          # Reproducible dataset generator 
 │   ├── customers.csv             # 1,000 customers
 │   ├── products.csv              # 70 products across 7 categories
 │   ├── orders.csv                # 5,000 orders (Jan 2023 – Dec 2024)
 │   └── order_items.csv           # 10,439 line items
 │
 ├── sql/
-│   └── ecommerce_analysis.sql    # Full SQL script: schema + 25 queries
+│   └── ecommerce_analysis.sql    # Full SQL script: schema 
 │       ├── Section 1: CREATE TABLE schema
 │       ├── Section 2: LOAD DATA commands
 │       ├── Section 3: Exploratory queries
@@ -202,4 +202,4 @@ python python/analysis.py
 
 ## 📬 Contact
 
-**Jalaj Kumar** · [jalajkumar10112110@gmail.com](mailto:jalajkumar10112110@gmail.com) · [GitHub](https://github.com/jalajcode4u) · [LinkedIn](https://linkedin.com/in/jalaj-kumar)
+**Jalaj Kumar** · [jalajkumar10112110@gmail.com](mailto:jalajkumar10112110@gmail.com) · [GitHub](https://github.com/jalajcode4u) · [LinkedIn](https://linkedin.com/in/jalaj-kumar2707)
