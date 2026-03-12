@@ -1,0 +1,71 @@
+product_id,product_name,category,price,cost_price,brand,in_stock
+P001,Wireless Earbuds,Electronics,21200.0,9650.0,ProLine,1
+P002,Bluetooth Speaker,Electronics,30040.0,17120.0,ValuePlus,1
+P003,USB-C Hub,Electronics,38100.0,18660.0,ValuePlus,1
+P004,Smart Watch,Electronics,10490.0,5890.0,ShopX,1
+P005,Laptop Stand,Electronics,68980.0,30010.0,EcoChoice,1
+P006,Mechanical Keyboard,Electronics,59220.0,32970.0,ShopX,1
+P007,Gaming Mouse,Electronics,68270.0,38090.0,EcoChoice,1
+P008,Webcam,Electronics,62000.0,28100.0,ShopX,1
+P009,Power Bank,Electronics,44390.0,28840.0,ProLine,1
+P010,LED Monitor,Electronics,13590.0,6770.0,EcoChoice,1
+P011,Men's T-Shirt,Clothing,1670.0,860.0,EcoChoice,1
+P012,Women's Kurta,Clothing,2010.0,810.0,BrandY,1
+P013,Denim Jeans,Clothing,4090.0,2260.0,BrandY,1
+P014,Sports Hoodie,Clothing,960.0,420.0,EcoChoice,0
+P015,Formal Shirt,Clothing,3400.0,2180.0,ProLine,0
+P016,Summer Dress,Clothing,490.0,290.0,BrandY,1
+P017,Track Pants,Clothing,2040.0,840.0,BrandY,1
+P018,Winter Jacket,Clothing,4020.0,2000.0,ProLine,1
+P019,Polo T-Shirt,Clothing,490.0,280.0,ShopX,1
+P020,Leggings,Clothing,2750.0,1670.0,ValuePlus,1
+P021,Air Fryer,Home & Kitchen,8640.0,4270.0,ProLine,1
+P022,Coffee Maker,Home & Kitchen,9870.0,6010.0,EcoChoice,1
+P023,Non-Stick Pan,Home & Kitchen,14600.0,6650.0,ProLine,1
+P024,Mixer Grinder,Home & Kitchen,13040.0,6800.0,ProLine,1
+P025,Water Bottle,Home & Kitchen,300.0,190.0,ProLine,1
+P026,Storage Box,Home & Kitchen,1340.0,750.0,BrandY,1
+P027,Bed Sheet Set,Home & Kitchen,2530.0,1390.0,ShopX,1
+P028,Curtain Pair,Home & Kitchen,6340.0,3060.0,ShopX,1
+P029,Wall Clock,Home & Kitchen,7290.0,3300.0,BrandY,1
+P030,Dinner Set,Home & Kitchen,6280.0,2890.0,BrandY,1
+P031,Data Science Handbook,Books,230.0,130.0,ShopX,1
+P032,Python Crash Course,Books,220.0,100.0,BrandY,1
+P033,Atomic Habits,Books,420.0,270.0,ShopX,1
+P034,Rich Dad Poor Dad,Books,680.0,410.0,ShopX,1
+P035,SQL for Beginners,Books,580.0,300.0,ProLine,1
+P036,Deep Work,Books,760.0,420.0,EcoChoice,1
+P037,The Psychology of Money,Books,240.0,140.0,ValuePlus,1
+P038,Clean Code,Books,650.0,410.0,EcoChoice,1
+P039,System Design Interview,Books,280.0,140.0,ShopX,1
+P040,Zero to One,Books,520.0,330.0,ProLine,1
+P041,Yoga Mat,Sports,7420.0,3300.0,EcoChoice,1
+P042,Resistance Bands,Sports,10580.0,5640.0,ShopX,1
+P043,Cricket Bat,Sports,8050.0,5040.0,EcoChoice,1
+P044,Football,Sports,10800.0,6410.0,ProLine,1
+P045,Cycling Helmet,Sports,4700.0,1930.0,EcoChoice,1
+P046,Dumbell Set,Sports,11290.0,5880.0,ProLine,1
+P047,Skipping Rope,Sports,9730.0,6100.0,EcoChoice,1
+P048,Badminton Racket,Sports,1950.0,1010.0,BrandY,1
+P049,Swimming Goggles,Sports,1370.0,750.0,EcoChoice,1
+P050,Running Shoes,Sports,2590.0,1500.0,ShopX,1
+P051,Face Serum,Beauty,540.0,220.0,BrandY,1
+P052,Sunscreen SPF50,Beauty,1210.0,590.0,BrandY,1
+P053,Hair Oil,Beauty,2110.0,980.0,EcoChoice,1
+P054,Lipstick Set,Beauty,1370.0,640.0,ProLine,1
+P055,Eye Shadow Palette,Beauty,1530.0,910.0,ProLine,1
+P056,Face Wash,Beauty,2020.0,1050.0,ValuePlus,1
+P057,Moisturizer,Beauty,2740.0,1370.0,BrandY,1
+P058,Perfume,Beauty,2360.0,1390.0,ProLine,1
+P059,Nail Polish Set,Beauty,3330.0,1420.0,EcoChoice,1
+P060,BB Cream,Beauty,1280.0,690.0,ShopX,1
+P061,LEGO Classic Set,Toys,4830.0,1940.0,ShopX,1
+P062,Remote Control Car,Toys,2460.0,1350.0,ShopX,1
+P063,Board Game,Toys,1260.0,530.0,ShopX,1
+P064,Puzzle 1000pc,Toys,4670.0,2340.0,EcoChoice,1
+P065,Soft Toy Bear,Toys,4820.0,2000.0,BrandY,1
+P066,Dollhouse,Toys,2310.0,1040.0,EcoChoice,1
+P067,Science Kit,Toys,360.0,200.0,EcoChoice,1
+P068,Card Game,Toys,3150.0,1790.0,ValuePlus,1
+P069,Art Set,Toys,200.0,90.0,ValuePlus,1
+P070,Drone Mini,Toys,1890.0,940.0,EcoChoice,1
