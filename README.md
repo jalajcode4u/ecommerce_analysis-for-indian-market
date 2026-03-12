@@ -166,7 +166,7 @@ ecommerce_analysis/
 ### Option B: Python Analysis
 ```bash
 # 1. Clone the repo
-git clone https://github.com/jalajcode4u/ecommerce-sales-analysis.git
+git clone https://github.com/jalajcode4u/ecommerce_analysis-for-indian-market.git
 cd ecommerce-sales-analysis
 
 # 2. Install dependencies
