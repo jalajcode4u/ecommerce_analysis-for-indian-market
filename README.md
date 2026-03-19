@@ -12,7 +12,7 @@
 
 ## 📌 Project Overview
 
-This project performs end-to-end sales analysis on a simulated Indian e-commerce platform (Jan 2023 – Dec 2024). It covers **4 relational tables**, **25+ SQL queries**, and **6 Python visualizations** — demonstrating real-world data analyst skills including SQL joins, window functions, cohort analysis, and RFM segmentation.
+This project will performs end-to-end sales analysis on a simulated Indian e-commerce platform (Jan 2023 – Dec 2024). It covers **4 relational tables**, **25+ SQL queries**, and **6 Python visualizations** — demonstrating real-world data analyst skills including SQL joins, window functions, cohort analysis, and RFM segmentation.
 
 > The dataset is programmatically generated to simulate realistic Indian e-commerce patterns using statistical distributions.
 
